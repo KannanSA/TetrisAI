@@ -1,1 +1,3 @@
 # TetrisAI
+
+![tetris](/tetris.png)
